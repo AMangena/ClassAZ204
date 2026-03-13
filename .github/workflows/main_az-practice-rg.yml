@@ -52,4 +52,4 @@ jobs:
           app-name: 'AZ-practice-rg'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C48BBED0D2C42699B6E0B009F187D2B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E489227D9F047188DEE2400C5F96EE7 }}
